@@ -2,8 +2,6 @@
 
 Una herramienta potente, rápida y minimalista diseñada exclusivamente para **ArgOs Platinum**. Convertí videos, extraé audio y comprimí archivos multimedia con un solo clic, utilizando todo el poder de `ffmpeg` bajo una interfaz moderna.
 
----
-
 ## 🚀 Características Principales
 
 * **Conversión Ultra Rápida**: Soporte para MP4, MKV, MOV y AVI.
