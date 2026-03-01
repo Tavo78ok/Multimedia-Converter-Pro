@@ -61,7 +61,7 @@ Asegurate de tener las dependencias necesarias instaladas:
 
 Cloná el repositorio y ejecutalo:
 
-git clone [https://github.com/tu-usuario/multimedia-converter-pro.git](https://github.com/tu-usuario/multimedia-converter-pro.git)
+git clone [https://github.com/Tavo78ok/multimedia-converter-pro.git](https://github.com/Tavo78ok/multimedia-converter-pro.git)
 cd multimedia-converter-pro
 python3 converter.py
 
