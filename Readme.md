@@ -24,7 +24,7 @@ Una herramienta potente, rápida y minimalista diseñada exclusivamente para **A
 
 Asegurate de tener las dependencias necesarias instaladas:
 
-```bash
+bash
 sudo apt update
 sudo apt install python3-gi gir1.2-gtk-4.0 gir1.2-adw-1 ffmpeg
 Cloná el repositorio y ejecutalo:
