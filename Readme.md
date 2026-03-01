@@ -68,7 +68,8 @@ python3 converter.py
 ### Método Recomendado (.deb)
 Si sos usuario de **ArgOs Platinum**, simplemente descargá el paquete `.deb` de la sección de [Releases](https://github.com/Tavo78ok/Multimedia-Converter-Pro/releases) e instalalo con:
 
-```bash
 sudo apt install ./multimedia-converter-pro_1.0_amd64.deb
+
+
 
 
