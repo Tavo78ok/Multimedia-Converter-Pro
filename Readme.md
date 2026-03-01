@@ -20,6 +20,7 @@ Una herramienta potente, rápida y minimalista diseñada exclusivamente para **A
 <img width="1440" height="900" alt="Captura de pantalla_2026-02-28_20-54-30" src="https://github.com/user-attachments/assets/876069b6-39e9-48b3-b50c-d94ac820c9d8" />
 <img width="1440" height="900" alt="Captura de pantalla_2026-02-28_21-01-12" src="https://github.com/user-attachments/assets/7a47cafb-7cd9-4926-a0cc-feb97c555548" />
 
+
 ⚙️ Cómo funciona
 Seleccioná el archivo que querés transformar.
 
@@ -31,6 +32,11 @@ Dale a "Convertir" y dejá que ArgOs haga la magia.
 Para videos 4K, se recomienda usar el Modo Gamer de OpenDash para priorizar los procesos de CPU.
 
 Si vas a comprimir, recordá que el formato H.265 ofrece el mejor equilibrio entre peso y calidad.
+
+Tipo	Formatos	Engine
+Video	MP4, MKV, AVI, MOV	FFMPEG (H.264/H.265)
+Audio	MP3, WAV, FLAC, OGG	FFMPEG (libmp3lame)
+Web	WebM, GIF	FFMPEG (VP9)
 
 🤝 Contribuir
 ¿Tenés una idea para mejorar el conversor?
