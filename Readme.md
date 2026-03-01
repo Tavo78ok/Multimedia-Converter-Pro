@@ -14,11 +14,11 @@ Una herramienta potente, rápida y minimalista diseñada exclusivamente para **A
 
 ## 📸 Capturas de Pantalla
 
-> [!TIP]
-> ¡Agregá acá una captura de tu app funcionando para que los usuarios se enamoren!
-> `![Preview](https://link-a-tu-captura.jpg)`
-
----
+<img width="1440" height="900" alt="Captura de pantalla_2026-02-28_21-01-12" src="https://github.com/user-attachments/assets/7a47cafb-7cd9-4926-a0cc-feb97c555548" />
+<img width="1440" height="900" alt="Captura de pantalla_2026-02-28_20-57-00" src="https://github.com/user-attachments/assets/032e577c-8980-456a-99ae-d8a8547dc32a" />
+<img width="1440" height="900" alt="Captura de pantalla_2026-02-28_20-55-27" src="https://github.com/user-attachments/assets/dbebe662-c28b-498a-8b15-a84ca4d2c607" />
+<img width="1440" height="900" alt="Captura de pantalla_2026-02-28_20-54-54" src="https://github.com/user-attachments/assets/2dcd47af-5674-4d34-8e83-f62eadf26d68" />
+<img width="1440" height="900" alt="Captura de pantalla_2026-02-28_20-54-30" src="https://github.com/user-attachments/assets/876069b6-39e9-48b3-b50c-d94ac820c9d8" />
 
 ## 🛠️ Instalación en ArgOs / Debian
 
@@ -33,3 +33,5 @@ Bash
 git clone [https://github.com/tu-usuario/multimedia-converter-pro.git](https://github.com/tu-usuario/multimedia-converter-pro.git)
 cd multimedia-converter-pro
 python3 converter.py
+
+
