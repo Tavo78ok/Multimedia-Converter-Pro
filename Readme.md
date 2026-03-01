@@ -20,16 +20,38 @@ Una herramienta potente, rápida y minimalista diseñada exclusivamente para **A
 <img width="1440" height="900" alt="Captura de pantalla_2026-02-28_20-54-30" src="https://github.com/user-attachments/assets/876069b6-39e9-48b3-b50c-d94ac820c9d8" />
 <img width="1440" height="900" alt="Captura de pantalla_2026-02-28_21-01-12" src="https://github.com/user-attachments/assets/7a47cafb-7cd9-4926-a0cc-feb97c555548" />
 
+⚙️ Cómo funciona
+Seleccioná el archivo que querés transformar.
+
+Elegí el formato de salida o el preset de compresión.
+
+Dale a "Convertir" y dejá que ArgOs haga la magia.
+
+💡 Tips de Rendimiento
+Para videos 4K, se recomienda usar el Modo Gamer de OpenDash para priorizar los procesos de CPU.
+
+Si vas a comprimir, recordá que el formato H.265 ofrece el mejor equilibrio entre peso y calidad.
+
+🤝 Contribuir
+¿Tenés una idea para mejorar el conversor?
+
+Hacé un Fork del proyecto.
+
+Creá una rama con tu mejora: git checkout -b feature/MejoraIncreible.
+
+Mandá un Pull Request.
+
+Desarrollado por Tavo para el ecosistema ArgOs Platinum. 🇦🇷
+
 ## 🛠️ Instalación en ArgOs / Debian
 
 Asegurate de tener las dependencias necesarias instaladas:
 
-bash
-sudo apt update
-sudo apt install python3-gi gir1.2-gtk-4.0 gir1.2-adw-1 ffmpeg
+- sudo apt update
+- sudo apt install python3-gi gir1.2-gtk-4.0 gir1.2-adw-1 ffmpeg
+- 
 Cloná el repositorio y ejecutalo:
 
-Bash
 git clone [https://github.com/tu-usuario/multimedia-converter-pro.git](https://github.com/tu-usuario/multimedia-converter-pro.git)
 cd multimedia-converter-pro
 python3 converter.py
