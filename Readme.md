@@ -33,9 +33,10 @@ Para videos 4K, se recomienda usar el Modo Gamer de OpenDash para priorizar los 
 
 Si vas a comprimir, recordá que el formato H.265 ofrece el mejor equilibrio entre peso y calidad.
 
-Tipo	Formatos	Engine
-Video	MP4, MKV, AVI, MOV	FFMPEG (H.264/H.265)
-Audio	MP3, WAV, FLAC, OGG	FFMPEG (libmp3lame)
+- Tipo	Formatos	Engine:
+
+- Video	MP4, MKV, AVI, MOV	FFMPEG (H.264/H.265)
+- Audio	MP3, WAV, FLAC, OGG	FFMPEG (libmp3lame)
 Web	WebM, GIF	FFMPEG (VP9)
 
 🤝 Contribuir
