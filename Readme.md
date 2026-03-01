@@ -58,7 +58,7 @@ Asegurate de tener las dependencias necesarias instaladas:
 
 - sudo apt update
 - sudo apt install python3-gi gir1.2-gtk-4.0 gir1.2-adw-1 ffmpeg
-- 
+
 Cloná el repositorio y ejecutalo:
 
 git clone [https://github.com/tu-usuario/multimedia-converter-pro.git](https://github.com/tu-usuario/multimedia-converter-pro.git)
@@ -66,9 +66,8 @@ cd multimedia-converter-pro
 python3 converter.py
 
 ### Método Recomendado (.deb)
-Si sos usuario de **ArgOs Platinum**, simplemente descargá el paquete `.deb` de la sección de [Releases](https://github.com/Tavo78ok/Multimedia-Converter-Pro/releases) e instalalo con:
 
-sudo apt install ./multimedia-converter-pro_1.0_amd64.deb
+- sudo apt install ./multimedia-converter-pro_1.0_amd64.deb
 
 
 
