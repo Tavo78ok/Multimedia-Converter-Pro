@@ -21,7 +21,9 @@ Una herramienta potente, rápida y minimalista diseñada exclusivamente para **A
 <img width="1440" height="900" alt="Captura de pantalla_2026-02-28_21-01-12" src="https://github.com/user-attachments/assets/7a47cafb-7cd9-4926-a0cc-feb97c555548" />
 
 
+
 ⚙️ Cómo funciona
+
 Seleccioná el archivo que querés transformar.
 
 Elegí el formato de salida o el preset de compresión.
